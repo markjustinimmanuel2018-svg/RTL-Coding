@@ -2,7 +2,7 @@ module counter(input clk,
                input reset,
                input up_down,
                output reg [3:0]count);
-  always@(posedge clk or posedge reset) begin
+  always @(posedge clk or posedge reset) begin
     if(reset)
       count<=4'd0;
     else begin

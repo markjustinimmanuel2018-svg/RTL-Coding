@@ -27,15 +27,11 @@ The goal of this repository is to:
 
 RTL-Coding-Foundations/
 
-|-- Week-1/  # Mini ALU (Combinational Logic)
-
-|-- Week-2/  # Mod-10 Up/Down Counter
-
-|-- Week-3/  # Sequence Detector FSM (1011)
-
-|-- Week-4/  # traffic Light Controller FSM
-
-|-- README.md
+ ├──  Week-1/  # Mini ALU (Combinational Logic) 
+ ├──  Week-2/  # Mod-10 Up/Down Counter
+ ├──  Week-3/  # Sequence Detector FSM (1011)
+ ├──  Week-4/  # traffic Light Controller FSM
+ └──  README.md
 
 
 
@@ -54,17 +50,11 @@ Each folder contains:
 
 
 | Week |           Project            |               Key Concepts                |
-
 |------|------------------------------|-------------------------------------------|
-
 |   1  |           Mini ALU           |   Combinational logic, case statements    |
-
-|   2  |    Mod-10 Up/down Counter    | Sequential logic, counters, clock \& reset |
-
+|   2  |    Mod-10 Up/down Counter    | Sequential logic, counters, clock & reset |
 |   3  | Sequence Detector FSM (1011) |     Moore FSM, overlapping detection      | 
-
 |   4  |   Traffic Light Controller   |       Timed FSM, controller design        |
-
 
 
 ------------------------------------------------------------------------
